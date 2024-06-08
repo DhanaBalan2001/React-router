@@ -10,7 +10,7 @@ This project is a React application that uses `react-router-dom` to create a nav
 
 # Usage
 
-- Open your browser and go to `http://localhost:3000`.
+- Open your browser and go to `(http://localhost:5173/)`.
 - Use the navigation menu to switch between course pages.
 
 # Technologies Used
@@ -22,6 +22,5 @@ This project is a React application that uses `react-router-dom` to create a nav
 
 This project is licensed under the MIT License.
 
-# Localhost Link :
 
-http://localhost:5173/
+
